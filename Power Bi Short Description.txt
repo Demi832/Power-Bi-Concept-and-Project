@@ -1,0 +1,19 @@
+Transformation
+Removed irrelevant and blank columns
+Made use of split column to simplify columns with "other" answer to make the data more usable
+
+When given salary range
+Duplicated Yearly Salary column and split column by digit to non digit, then find and replace k, - to nothing to get only numeric values + to 225 for same as avg
+created a new column with add column and simple added the upper and lower values gotten from range and divided by 2
+
+
+User Card to display Number of survey takers and their average age
+1st visualization (Card)
+2nd visualization (Stacked Bar Chart) showing the job and average salary of participants, grouped by job title
+3rd visualization (Stacked Column Chart) showing favourite programming languages of voters grouped by job title
+4th visualization (Tree map) 
+5th visualization (Gauge) for happiness with work life balance and salary
+6th visualization(Donut Chart) for difficulty breaking into data
+
+ 
+
