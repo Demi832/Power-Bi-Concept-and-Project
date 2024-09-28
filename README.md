@@ -10,6 +10,8 @@ This repository holds a collection of Power Bi files showcasing key concepts and
 - Bins and Lists
 - Data Visualizations
 
+# Project Dashboard Screenshot
+![Power Bi Dashboard Picture](https://github.com/user-attachments/assets/c084b7e7-9955-471b-836b-f18f7829385b)
 
 
 # Contact
